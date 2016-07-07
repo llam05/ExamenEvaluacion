@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <string name="btnDespesa">Despeses</string>
+    <string name="btnPrestec">Péstecs</string>
+    <string name="btnDeute">Deutes</string>
+    <string name="btnSalir">Salir</string>
+    <string name="btnModifica">Modifica despesa</string>
+    <string name="btnAgregaDespesa">Nova Despesa</string>
+    <string name="btnMostrarDespesa">Mostrar despeses</string>
+    <string name="btnMostrarDeutes">Mostrar deutes</string>
+    <string name="btnAgregaDeute">Nou deute</string>
+    <string name="btnAgregaPrestec">Nou préstec</string>
+    <string name="btnMostrarPrestec">Mostrar préstecs</string>
+    <string name="cantidadDespesa">Quantitat</string>
+    <string name="dataDespesa">Data</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="amigos">Amics</string>
+    <string name="familia">Familia</string>
+    <string name="casa">Casa</string>
+    <string name="persona">Persona</string>
+    <string name="categoriaDespesa">Categoria</string>
+</resources>
